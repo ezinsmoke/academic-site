@@ -1,0 +1,13 @@
+{
+  "title": "Илья Амехин",
+  "email": "amekhinin@gmail.com",
+  "description": "Личный академический сайт: математика, учебные заметки и учительские школьные материалы.",
+  "currentFocus": "Сейчас работаю преимущественно над дескриптивной теорией множеств / логико-топологией, с акцентом на аккуратное чтение, пояснительные заметки и строгие математические записи.",
+  "navigation": [
+    { "title": "Home", "url": "/" },
+    { "title": "Mathematics", "url": "/mathematics/" },
+    { "title": "Learning", "url": "/learning/" },
+    { "title": "School Notes", "url": "/school-notes/" },
+    { "title": "About", "url": "/about/" }
+  ]
+}
