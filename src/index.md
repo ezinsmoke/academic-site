@@ -21,10 +21,10 @@ permalink: /
 
 ## Sections
 
-- [Mathematics](/mathematics/)
-- [Learning](/learning/)
-- [School Notes](/school-notes/)
-- [About](/about/)
+- <a href="{{ '/mathematics/' | url }}">Mathematics</a>
+- <a href="{{ '/learning/' | url }}">Learning</a>
+- <a href="{{ '/school-notes/' | url }}">School Notes</a>
+- <a href="{{ '/about/' | url }}">About</a>
 
 ## Current state
 

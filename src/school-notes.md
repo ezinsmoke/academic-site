@@ -20,7 +20,7 @@ permalink: /school-notes/
     Мой overleaf с листочками для 5 класса по математике.
   </li>
   <li>
-    <a href="/images/full_map.png" target="_blank" rel="noopener noreferrer">
+    <a href="{{ '/images/full_map.png' | url }}" target="_blank" rel="noopener noreferrer">
     <strong>Карта знаний-умений-навыков для 5 класса</strong><br>
     </a>
     <span class="meta">status: revised</span><br>

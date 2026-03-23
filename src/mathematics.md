@@ -16,14 +16,14 @@ permalink: /mathematics/
 
 <ul class="note-list">
   <li>
-    <a href="/notes/mathematics/dst/grigorchuk.pdf" target="_blank" rel="noopener noreferrer">
+    <a href="{{ '/notes/mathematics/dst/grigorchuk.pdf' | url }}" target="_blank" rel="noopener noreferrer">
     <strong>Нетривиальные вложения групп Григорчука в автоморфизмы деревьев</strong><br>
     </a>
     <span class="meta">status: revised · category: DST / logic-topology</span><br>
     Посчитали количество нетривиальных вложений групп в автоморфизмы деревьев. Введены основные понятия геометрической теории групп и определения деревьев.
   </li>
   <li>
-    <a href="/notes/mathematics/dst/solver.pdf" target="_blank" rel="noopener noopener">
+    <a href="{{ '/notes/mathematics/dst/solver.pdf' | url }}" target="_blank" rel="noopener noopener">
     <strong>Решебник "Начала теории множеств"</strong><br>
     </a>
     <span class="meta">status: draft · category: DST / logic-topology</span><br>
@@ -47,7 +47,7 @@ permalink: /mathematics/
 
 <ul class="note-list">
   <li> 
-    <a href="/notes/mathematics/reading/sphere_triang.pdf" target="_blank" rel="noopener noreferrer">
+    <a href="{{ '/notes/mathematics/reading/sphere_triang.pdf' | url }}" target="_blank" rel="noopener noreferrer">
     <strong>Число триангуляций сферы</strong><br>
     </a>
     <span class="meta">status: draft · category: reading notes</span><br>

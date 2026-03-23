@@ -5,16 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if title %}{{ title }} — {% endif %}{{ site.title }}</title>
     <meta name="description" content="{{ description or site.description }}">
-    <link rel="stylesheet" href="/assets/style.css">
+    <link rel="stylesheet" href="{{ '/assets/style.css' | url }}">
   </head>
   <body>
     <div class="page">
       <header class="site-header">
-        <div class="site-title"><a href="/">{{ site.title }}</a></div>
+        <div class="site-title"><a href="{{ '/' | url }}">{{ site.title }}</a></div>
         <nav>
           <ul class="nav-list">
             {% for item in site.navigation %}
-              <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+              <li><a href="{{ item.url | url }}">{{ item.title }}</a></li>
             {% endfor %}
           </ul>
         </nav>
