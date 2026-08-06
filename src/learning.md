@@ -15,17 +15,17 @@ permalink: /learning/
 
 <ul class="note-list">
   <li>
-    <a href="https://docs.google.com/spreadsheets/d/1f9tyOKrR5ZN_psZZXWgjeyvMEtCnoxNeVNEnJldrIYs/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-    <strong>Syllabus для DST</strong><br>
+    <a href="/notes/learning/workflow_productivity/" target="_blank" rel="noopener noreferrer">
+    <strong>Рабочий workflow</strong><br>
     </a>
     <span class="meta">status: draft</span><br>
-    Структурированный план для обучения дескриптивной теории множеств.
+    Структурированный план, по которому я организую свою работу и своё время
   </li>
   <li>
-    <a href="planning_system/" target="_blank" rel="noopener noreferrer">
+    <a href="/notes/learning/religious_habit_tracking/" target="_blank" rel="noopener noreferrer">
     <strong>Система планирования</strong><br>
     </a>
     <span class="meta">status: draft</span><br>
-    Структурированная система планирования.
+    Развёрнутая статья как и почему следует выделить несколько самых важных вещей по жизни и отслеживать их
   </li>
 </ul>
