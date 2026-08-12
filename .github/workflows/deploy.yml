@@ -1,9 +1,5 @@
 name: Deploy to GitHub Pages
 
-run: npm run build
-  env:
-    NODE_ENV: production
-
 on:
   push:
     branches: [ main ]
@@ -24,6 +20,8 @@ jobs:
 
       - name: Build site
         run: npm run build
+        env:
+          NODE_ENV: production   # <-- обратите внимание на отступы
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
