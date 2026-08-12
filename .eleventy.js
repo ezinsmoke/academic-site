@@ -1,12 +1,13 @@
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
-	eleventyConfig.addPassthroughCopy({ "src/notes": "notes" });
-	eleventyConfig.addPassthroughCopy({ "src/images": "images" });
+  eleventyConfig.addPassthroughCopy({ "src/notes": "notes" });
+  eleventyConfig.addPassthroughCopy({ "src/images": "images" });
 
   const isProd = process.env.NODE_ENV === 'production';
-  const repoName = 'academic-site-eleventy';  
+  const repoName = 'academic-site';
 
   return {
+    pathPrefix: isProd ? `/${repoName}/` : '/', 
     dir: {
       input: "src",
       includes: "_includes",
