@@ -1,5 +1,9 @@
 name: Deploy to GitHub Pages
 
+run: npm run build
+  env:
+    NODE_ENV: production
+
 on:
   push:
     branches: [ main ]
