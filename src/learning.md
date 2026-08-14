@@ -15,14 +15,14 @@ permalink: /learning/
 
 <ul class="note-list">
   <li>
-    <a href="/notes/learning/workflow_productivity/" target="_blank" rel="noopener noreferrer">
+    <a href="{{ '/notes/learning/workflow_productivity/' | url }}" target="_blank" rel="noopener noreferrer">
     <strong>Рабочий workflow</strong><br>
     </a>
     <span class="meta">status: draft</span><br>
     Структурированный план, по которому я организую свою работу и своё время
   </li>
   <li>
-    <a href="/notes/learning/religious_habit_tracking/" target="_blank" rel="noopener noreferrer">
+    <a href="{{ '/notes/learning/religious_habit_tracking/' | url }}" target="_blank" rel="noopener noreferrer">
     <strong>Система планирования</strong><br>
     </a>
     <span class="meta">status: draft</span><br>

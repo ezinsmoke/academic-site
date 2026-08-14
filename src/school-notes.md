@@ -26,4 +26,11 @@ permalink: /school-notes/
     <span class="meta">status: revised</span><br>
     Структурированная карта знаний-умений-навыков для 5 класса. Описаны предметные и непредметные блоки, указаны основные связи.
   </li>
+  <li>
+    <a href="https://docs.google.com/spreadsheets/d/1uWabiNudIDrPRXNvVZdbbJGkAvnXbaPtoHJLDD53Lzo/edit?usp=drive_link" target="_blank" rel="noopener noreferrer">
+    <strong>Кондуит: наблюдения + статистика</strong><br>
+    </a>
+    <span class="meta">status: revised</span><br>
+    Инструмент для ежедневного мониторинга активности и результатов учеников.
+   </li>
 </ul>
