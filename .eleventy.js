@@ -4,7 +4,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/images": "images" });
 
   const isProd = process.env.NODE_ENV === 'production';
-  const repoName = 'academic-site-eleventy';   // или 'academic-site' – подставьте ваше имя
+  const repoName = 'academic-site';
 
   console.log('NODE_ENV:', process.env.NODE_ENV);
   console.log('pathPrefix:', isProd ? `/${repoName}/` : '/');
