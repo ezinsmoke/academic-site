@@ -10,7 +10,7 @@ module.exports = function (eleventyConfig) {
   console.log('pathPrefix:', isProd ? `/${repoName}/` : '/');
 
   return {
-    pathPrefix: isProd ? `/${repoName}/` : '/',   // <-- ЭТО БЫЛО ПРОПУЩЕНО
+    pathPrefix: isProd ? `/${repoName}/` : '/',   
     dir: {
       input: "src",
       includes: "_includes",
