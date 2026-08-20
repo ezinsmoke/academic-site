@@ -17,7 +17,7 @@ description: "Резюме Амехина Ильи: преподаватель �
 
 🐙 [github.com/ezinsmoke](https://github.com/ezinsmoke)
 
-🌐 [Мой сайт](../)
+🌐 [Мой сайт](https://ezinsmoke.github.io/academic-site)
 
 💬 Telegram: [@m333rlin](https://t.me/m333rlin)
 
@@ -72,6 +72,7 @@ description: "Резюме Амехина Ильи: преподаватель �
 
 * математический анализ;
 * линейная алгебра;
+* общая топология;
 * абстрактная алгебра;
 * теория чисел;
 * геометрия;
@@ -108,6 +109,14 @@ description: "Резюме Амехина Ильи: преподаватель �
 
 ## Проекты
 
+### Учебно-образовательный канал в TikTok
+
+**TikTok:** [@moss.math](https://www.tiktok.com/@moss.math?_r=1&_t=ZS-992g24pmg33)
+
+* Объяснение математических парадоксов и интересных математических приёмов
+* Красочные анимации на **Manim**
+* Авторский подход к объяснению математики
+
 ### Академический сайт на Eleventy
 
 **GitHub:** [github.com/ezinsmoke/academic-site](https://github.com/ivanov/academic-site)
@@ -143,11 +152,11 @@ description: "Резюме Амехина Ильи: преподаватель �
 | Способ   | Ссылка                                      |
 | -------- | ------------------------------------------- |
 | Email    | [amekhinin@gmail.com](mailto:amekhinin@gmail.com) |
-| GitHub   | https://github.com/ezinsmoke                   |
-| Telegram | https://t.me/m333rlin                         |
-| Сайт     | ../                                         |
+| GitHub   | [ezinsmoke](https://github.com/ezinsmoke)                   |
+| Telegram | [@inamekhin](https://t.me/inamekhin)                         |
+| Сайт     | [academic-site](https://ezinsmoke.github.io/academic-site)                                         |
 
 ---
 
-> Последнее обновление: **14 августа 2026**
+> Последнее обновление: **20 августа 2026**
 
