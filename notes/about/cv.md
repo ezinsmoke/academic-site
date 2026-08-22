@@ -7,19 +7,18 @@ permalink: /notes/about/cv/
 description: "Резюме Амехина Ильи: преподаватель математики, студент мехмата, Linux и разработка статических сайтов."
 ---
 
-# Амехин Илья 
-
-**Студент МКН · Преподаватель математики · Linux / Julia**
-
-📍 Москва, Россия
-
-📧 [amekhinin@gmail.com](mailto:amekhinin@gmail.com)
-
-🐙 [github.com/ezinsmoke](https://github.com/ezinsmoke)
-
-🌐 [Мой сайт](https://ezinsmoke.github.io/academic-site)
-
-💬 Telegram: [@m333rlin](https://t.me/m333rlin)
+<div class="resume-header">
+  <div class="contact">
+    📍 Москва, Россия<br>
+    📧 <a href="mailto:amekhinin@gmail.com">amekhinin@gmail.com</a><br>
+    🐙 <a href="https://github.com/ezinsmoke">github.com/ezinsmoke</a><br>
+    🌐 <a href="https://ezinsmoke.github.io/academic-site">Мой сайт</a><br>
+    💬 Telegram: <a href="https://t.me/m333rlin">@m333rlin</a>
+  </div>
+  <div class="photo">
+    <img src="/academic-site/images/myself.png" alt="Моё фото">
+  </div>
+</div>
 
 ---
 
@@ -153,7 +152,7 @@ description: "Резюме Амехина Ильи: преподаватель �
 | -------- | ------------------------------------------- |
 | Email    | [amekhinin@gmail.com](mailto:amekhinin@gmail.com) |
 | GitHub   | [ezinsmoke](https://github.com/ezinsmoke)                   |
-| Telegram | [@inamekhin](https://t.me/inamekhin)                         |
+| Tg       | [@inamekhin](https://t.me/inamekhin)                         |
 | Сайт     | [academic-site](https://ezinsmoke.github.io/academic-site)                                         |
 
 ---

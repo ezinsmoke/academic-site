@@ -46,6 +46,29 @@ a:hover { text-decoration-thickness: 2px; }
   text-decoration: none;
 }
 
+.resume-header {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.resume-header .contact {
+  flex: 1;
+}
+
+.resume-header .photo {
+  flex: 1;
+  text-align: right;
+}
+
+.resume-header .photo img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
+  max-height: 200px;
+}
+
 .nav-list {
   list-style: none;
   display: flex;
